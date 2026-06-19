@@ -1,2 +1,3 @@
 # Exploring_github
 exploring all the ways to use and learn about git and github...
+Completed Manual way of using GitHub and neccesary commands dealing with repositories
